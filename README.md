@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# NovelNest
+NovelNest is an innovative platform designed for avid readers and story enthusiasts. Our project curates a diverse collection of stories from various genres, including romance, fantasy, and science fiction, sourced from different websites. Each story is presented in a summarized format, allowing users to quickly grasp the essence of the narrative. Users can engage with the content by rating and commenting on the stories, fostering a vibrant community of readers who share their thoughts and recommendations. NovelNest makes discovering and enjoying new tales easier and more interactive than ever before.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
