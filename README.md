@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+![337247932-0daf7380-5fff-43c6-94c1-a358923b10f8](https://github.com/sathiyamathi/NovelNest/assets/104087062/e78791be-0aac-4cdd-ba2e-c712ebc687a0)
+
+![WhatsApp Image 2024-05-04 at 7 38 14 PM](https://github.com/sathiyamathi/NovelNest/assets/104087062/e91247f6-6192-4866-9a0f-95662f5e7642)
+![WhatsApp Image 2024-05-04 at 7 40 24 PM](https://github.com/sathiyamathi/NovelNest/assets/104087062/25b6df33-5f2e-4fd8-885b-f77fbbf8f223)
+![WhatsApp Image 2024-05-04 at 7 39 50 PM](https://github.com/sathiyamathi/NovelNest/assets/104087062/d0a9f663-c3cf-43e2-bfb6-54c32ff113b4)
+![WhatsApp Image 2024-05-04 at 7 39 10 PM](https://github.com/sathiyamathi/NovelNest/assets/104087062/08bfe842-0ced-4087-9fd5-b0500a31947f)
+
+
+
+
+
+
+
+
